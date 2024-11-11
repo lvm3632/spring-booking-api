@@ -1,4 +1,4 @@
-# Best Travel API
+# API para sistema de reservaciones para hoteles, vuelos y tours
 
 API desarrollada en Spring Boot para gestionar reservaciones de viajes (hoteles, vuelos, tours) con varias funcionalidades de Spring.
 
@@ -14,6 +14,8 @@ API desarrollada en Spring Boot para gestionar reservaciones de viajes (hoteles,
 - **Autenticación JWT**: Seguridad con OAuth2 y JWT.
 - **AOP**: Programación orientada a aspectos.
 - **RabbitMQ**: Mensajería asincrónica.
+- **Docker Compose**: Uso de docker compose para levantar los servicios como Postgres, Redis, Mongo y RabbitMQ en un entorno local de bridge.
+- **Postman**: Uso de Postman para hacer prueba a los endpoints, con uso de la consola y scripts en JavaScript.
 
 ## Estructura del Proyecto
 
